@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>
+		INDEX
+	</title>
+</head>
+<body>
+	<h1>Smart HTTP server</h1>
+	<p>
+		<a href="fruits.jpg">Slika</a>
+		<a href="sample.txt">Text</a>
+	</p>
+</body>
+</html>
